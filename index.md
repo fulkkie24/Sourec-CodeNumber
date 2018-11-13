@@ -5,40 +5,39 @@
 
 
 ## ภาษา C
+![Image](https://raw.github.com/suwatjanee005/Sourec-CodeNumber/blob/master/JS1-10.png)
 [คลิกเพื่อดูโค๊ดภาษา C](https://github.com/suwatjanee005/Sourec-CodeNumber/blob/master/C)
 
-![Image](https://raw.github.com/suwatjanee005/Sourec-CodeNumber/blob/master/JS1-10.png)
+
 
 -เป็นการรันผลลัพธ์ผ่านเว็บออนไลน์ หากเพื่อนๆสนใจสามารถลองเข้าไปดูได้เลยค้า
 
 ## ภาษา C#
-
+![Image](https://raw.github.com/suwatjanee005/Sourec-CodeNumber/blob/master/c%231-10.png)
 [คลิกเพื่อดูโค๊ดภาษา C#](https://github.com/suwatjanee005/Sourec-CodeNumber/blob/master/C%23) 
 
-![Image](https://raw.github.com/suwatjanee005/Sourec-CodeNumber/blob/master/c%231-10.png)
+
 
 -เป็นการรันผลลัพธ์ผ่านเว็บออนไลน์ หากเพื่อนๆสนใจสามารถลองเข้าไปดูได้เลยค้า
 
 ## ภาษา JAVA
+![Image](https://raw.github.com/suwatjanee005/Sourec-CodeNumber/blob/master/Java1-10.png)
 [คลิกเพื่อดูโค๊ดภาษา JAVA](https://github.com/suwatjanee005/Sourec-CodeNumber/blob/master/JAVA) 
 
-![Image](https://raw.github.com/suwatjanee005/Sourec-CodeNumber/blob/master/Java1-10.png)
+
 
 -เป็นการรันผลลัพธ์ผ่านเว็บออนไลน์ หากเพื่อนๆสนใจสามารถลองเข้าไปดูได้เลยค้า
 
 ## ภาษา Javascript
+![Image](https://raw.github.com/suwatjanee005/Sourec-CodeNumber/blob/master/JS1-10.png)
 [คลิกเพื่อดูโค๊ดภาษา Javascript](https://github.com/suwatjanee005/Sourec-CodeNumber/blob/master/JS) 
 
-![Image](https://raw.github.com/suwatjanee005/Sourec-CodeNumber/blob/master/JS1-10.png)
+
 
 -เป็นการรันผลลัพธ์ผ่านเว็บออนไลน์ หากเพื่อนๆสนใจสามารถลองเข้าไปดูได้เลยค้า
 
 ## ภาษา PHP
+![Image](https://raw.github.com/suwatjanee005/Sourec-CodeNumber/blob/master/PHP.png)
 [คลิกเพื่อดูโค๊ดภาษา PHP](https://github.com/suwatjanee005/Sourec-CodeNumber/blob/master/PHP) 
 
-![Image](https://raw.github.com/suwatjanee005/Sourec-CodeNumber/blob/master/PHP.png)
-
 -เป็นการรันผลลัพธ์ผ่านเว็บออนไลน์ หากเพื่อนๆสนใจสามารถลองเข้าไปดูได้เลยค้า
-สิ้นสุดการสนทนาผ่านแชท
-พิมพ์ข้อความ...
-
