@@ -7,7 +7,7 @@
 ## ภาษา C
 [คลิกเพื่อดูโค๊ดภาษา C](https://github.com/suwatjanee005/Sourec-CodeNumber/blob/master/C)
 
-![Image](https://raw.github.com/suwatjanee005/Sourec-CodeNumber/blob/master/c1-10.png)
+![Image](https://raw.github.com/suwatjanee005/Sourec-CodeNumber/blob/master/JS1-10.png)
 
 -เป็นการรันผลลัพธ์ผ่านเว็บออนไลน์ หากเพื่อนๆสนใจสามารถลองเข้าไปดูได้เลยค้า
 
