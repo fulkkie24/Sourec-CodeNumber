@@ -1,5 +1,9 @@
 # สวัสดีค่ะ วันนี้ก็จะมาแนะนำเกี่ยวกับการเขียนโปรแกรม 1-10 ด้วยโปรแกรมต่างๆ
 
+![Image](https://raw.githubusercontent.com/thaiall/programming-page/master/Nation_University_Logo.png)
+## [มหาวิทยาลัยเนชั่น](http://www.nation.ac.th)
+
+
 ## ภาษา C
 [คลิกเพื่อดูโค๊ดภาษา C](https://github.com/suwatjanee005/Sourec-CodeNumber/blob/master/C)
 
