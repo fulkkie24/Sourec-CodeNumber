@@ -39,3 +39,6 @@
 ![Image](https://raw.github.com/suwatjanee005/Sourec-CodeNumber/blob/master/PHP.png)
 
 -เป็นการรันผลลัพธ์ผ่านเว็บออนไลน์ หากเพื่อนๆสนใจสามารถลองเข้าไปดูได้เลยค้า
+สิ้นสุดการสนทนาผ่านแชท
+พิมพ์ข้อความ...
+
